@@ -25,6 +25,5 @@ La aplicación implementa un flujo de trabajo simple que toma una cadena de text
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/tu_usuario/temporal-go-hello-world.git
-   cd temporal-go-hello-world
-# temporal-go-basic-hello
+   git clone https://github.com/Juniorc21/temporal-go-basic-hello.git
+   cd temporal-go-basic-hello
